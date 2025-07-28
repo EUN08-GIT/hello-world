@@ -2,7 +2,7 @@
 
 # 안녕세상
 # 개발자 소개
-<img src="img1.jpg" width="500" height="500">
+<img src="img1.jpg" width="500" height="500"/>
 
 |제목|내용|설명|
 |------|---|---|
