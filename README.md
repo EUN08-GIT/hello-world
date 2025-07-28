@@ -7,10 +7,10 @@
 ### 발표자료
 [최종발표자료](/프레젠테이션 1-2.pptx)
 ### 시연동영상
-<iframe width="500" height="300" src ="https://www.youtube.com/watch?v=W2eDRLKpxyQ">
+<iframe width="500" height="300" src ="https://www.youtube.com/watch?v=ElCja4GLSyI">
 ### reference
-[네이버](https://naver.com)
-[구글](https://google.com)
+1. [네이버](https://www.naver.com) <br>
+2. [구글](https://www.google.com)
 
 
 
