@@ -18,7 +18,7 @@
 [최종발표자료](/프레젠테이션 1-2.pptx)
 
 ### 시연동영상
-<iframe width="1840" height="1035" src="https://www.youtube.com/embed/rFHd6c2N1-k" title="&quot;울릉도 여행 취소했다&quot; 난리..군수 달려갔지만 &#39;활활&#39; [뉴스.zip/MBC뉴스]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/rFHd6c2N1-k" title="&quot;울릉도 여행 취소했다&quot; 난리..군수 달려갔지만 &#39;활활&#39; [뉴스.zip/MBC뉴스]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### reference
 1. [네이버](https://www.naver.com/) <br>
