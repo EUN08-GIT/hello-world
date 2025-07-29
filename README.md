@@ -1,15 +1,8 @@
-# hello-world
+# My Notebook
 
-# 안녕세상
 # 개발자 소개
 <img src="img1.jpg" width="500" height="500"/>
 
-|제목|내용|설명|
-|------|---|---|
-|이름|김은총| |
-|기술|Frontend|html,css,js.kotlin|
-|    |Backend|django,flask|
-|    |Database|Oracle|
 
 # 작품 1 - django framework 활용 게시판 만들기
 ### 설계도
@@ -39,17 +32,12 @@
   <section>
     <h2>프로젝트</h2>
     
-    <div class="project">
-      <h3>📌 나만의 블로그</h3>
-      <p>HTML과 CSS로 만든 블로그 스타일 웹사이트입니다.</p>
-      <a href="https://github.com/사용자이름/블로그프로젝트" target="_blank">GitHub 보기</a>
-    </div>
-
-    <div class="project">
-      <h3>📌 포트폴리오 웹사이트</h3>
-      <p>자기소개와 프로젝트를 담은 개인 포트폴리오 페이지입니다.</p>
-      <a href="https://github.com/사용자이름/포트폴리오" target="_blank">GitHub 보기</a>
-    </div>
+    |제목|내용|설명|
+|------|---|---|
+|이름|김은총| |
+|기술|Frontend|html,css,js.kotlin|
+|    |Backend|django,flask|
+|    |Database|Oracle|
   </section>
 
   <section>
