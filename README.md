@@ -54,12 +54,12 @@
 
   <section>
     <h2>연락처</h2>
-    <p>📧 이메일: example@email.com</p>
-    <p>🌐 GitHub: <a href="https://github.com/사용자이름" target="_blank">github.com/사용자이름</a></p>
+    <p>📧 이메일: zcx1156@naver.com
+    <p>🌐 GitHub: <a href="https://github.com/EUN08-GIT" target="_blank">github.com/EUN08-GIT</a></p>
   </section>
 
   <footer>
-    &copy; 2025 홍길동
+    &copy; 2025 김은총
   </footer>
 
 </body>
