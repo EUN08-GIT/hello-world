@@ -3,7 +3,12 @@
 # 개발자 소개
 <img src="img1.jpg" width="500" height="500"/>
 
-
+|제목|내용|설명|
+|------|---|---|
+|이름|김은총| |
+|기술|Frontend|html,css,js.kotlin|
+|    |Backend|django,flask|
+|    |Database|Oracle|
 # 작품 1 - django framework 활용 게시판 만들기
 ### 설계도
 <img src = "archi.jpg"/>
@@ -20,7 +25,7 @@
 <body>
 
   <header>
-    <h1>홍길동</h1>
+    <h1>김은총</h1>
     <p>프론트엔드 개발자 | HTML, CSS, JavaScript</p>
   </header>
 
@@ -32,12 +37,7 @@
   <section>
     <h2>프로젝트</h2>
     
-    |제목|내용|설명|
-|------|---|---|
-|이름|김은총| |
-|기술|Frontend|html,css,js.kotlin|
-|    |Backend|django,flask|
-|    |Database|Oracle|
+
   </section>
 
   <section>
